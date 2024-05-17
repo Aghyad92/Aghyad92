@@ -11,7 +11,8 @@ I'm Software developer who is passionate about creating technology to elevate pe
 some technologies I enjoy working with include JavaScript,ReactJs,NextJs,And Firebase.
 
 - 🔭 I’m Software developer[@Deliveryhero] https://www.remostarts.com in india
-- 💬 Ask me about**ReactJs and Frontend**
+- 💬 Ask me about **ReactJs and Frontend**
+- 📫 How to reach me:<a href="https://aghyad92m@gmail.com"></a>
 <!--
 **Aghyad92/Aghyad92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
