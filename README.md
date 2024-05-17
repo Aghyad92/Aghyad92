@@ -1,4 +1,5 @@
 <h1 align="center">Hi there 👋,I'm Aghyad Mohammad...</h1> 
+
 <p align="center">
   <a href="https://www.facebook.com/aghyad.mohammad.1"><img src="https://img.shields.io/badge/Facebook-blue?logo=facebook
 "/></a>
@@ -9,7 +10,9 @@
 </p>
 I'm Software developer who is passionate about creating technology to elevate people and help new developers to find the right path .
 some technologies I enjoy working with include JavaScript,ReactJs,NextJs,And Firebase.
+
 - 🔭 I’m Software developer[@Deliveryhero] https://www.remostarts.com in india
+- 
 - 💬 Ask me about**ReactJs and Frontend**
 <!--
 **Aghyad92/Aghyad92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
