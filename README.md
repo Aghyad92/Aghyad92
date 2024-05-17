@@ -2,6 +2,7 @@
 <p align="center">
   <a href="https://www.facebook.com/aghyad.mohammad.1"><img src="https://img.shields.io/badge/Facebook-blue?logo=facebook
 "/></a>
+  [https://img.shields.io/badge/Facebook-blue?logo=facebook](https://www.facebook.com/aghyad.mohammad.1)
    <a href="https://www.linkedin.com/in/aghyad-mohammad"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=Linkedin
 "/></a>
   <a href="https://www.instagram.com/aghyadmoh"><img src="https://img.shields.io/badge/Instagram-white?style=social&logo=instagram&logoSize=auto
@@ -12,7 +13,7 @@ some technologies I enjoy working with include JavaScript,ReactJs,NextJs,And Fir
 
 - 🔭 I’m Software developer[@Deliveryhero] https://www.remostarts.com in india
 - 💬 Ask me about **ReactJs and Frontend**
-- 📫 How to reach me:<a href="https://aghyad92m@gmail.com"></a>
+- 📫 How to reach me:"https://aghyad92m@gmail.com"
 <!--
 **Aghyad92/Aghyad92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
